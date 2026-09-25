@@ -2,7 +2,7 @@
 
 ### AI-Powered Code Vulnerability Detection, Auto-Repair & Validation
 
-🚀 **Live Demo:** [Try CodeRepair AI]((https://coderepairagent-fxrot3oe4l6p7rbwngu7tc.streamlit.app/))
+🚀 **Live Demo:** [Try CodeRepair AI](https://coderepairagent-fxrot3oe4l6p7rbwngu7tc.streamlit.app/)
 
 CodeRepair AI is a Python-based code security assistant that analyzes Python source code, detects common security vulnerabilities, generates safer repaired code, validates the repair, and automatically creates a corrected Python file.
 
