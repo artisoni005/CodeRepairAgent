@@ -4,6 +4,8 @@
 
 🚀 **Live Demo:** [Try CodeRepair AI](https://coderepairagent-fxrot3oe4l6p7rbwngu7tc.streamlit.app/)
 
+💻 **[Source Code](https://github.com/artisoni005/CodeRepairAgent)**
+
 CodeRepair AI is a Python-based code security assistant that analyzes Python source code, detects common security vulnerabilities, generates safer repaired code, validates the repair, and automatically creates a corrected Python file.
 
 The project combines **static code analysis, AI-assisted repair, local fallback repair, and automated validation** into a simple Streamlit dashboard.
